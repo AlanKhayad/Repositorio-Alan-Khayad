@@ -1,0 +1,13 @@
+{
+    "123": {
+        "nombre": "Alan",
+        "edad": 22,
+        "partido": "1",
+        "tipo_entrada": "VIP",
+        "asiento": "J9",
+        "id_entrada": 21,
+        "precio_ticket": 139.2,
+        "gasto_rest": 0,
+        "asistencia": false
+    }
+}
